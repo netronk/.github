@@ -1,5 +1,3 @@
-![hero img](https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)
-
 __Netronk Innovations - Your Premier Web Agency in Sri Lanka 🇱🇰__
 
 Netronk Innovations is a cutting-edge web agency specializing in app development, website design, API integration, and AI solutions. We leverage modern technologies, including various JavaScript frameworks, to create innovative and high-quality digital products for our clients.
